@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/youss/CLionProjects/FlatMatrix/Vector1D.h
+vector
+-
+
+C:/Users/youss/CLionProjects/FlatMatrix/main.cpp
+vector
+-
+iostream
+-
+Vector1D.h
+C:/Users/youss/CLionProjects/FlatMatrix/Vector1D.h
+
